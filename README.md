@@ -1,2 +1,12 @@
 # MBTA-On-Time-Prediction-Accuracy-Analysis
-This is a Team Project where we analyzed Factors that affected On-Time Prediction Accuracy of transport lines of Massachusetts Bay Transportation Authority (MBTA). (MBTA)  
+This Project is a part of Northeastern University's MPS Analytics Program. 
+
+### **Program Name:** Masters of Professional Studies in Analytics 
+### **Course Name:** Intermediate Analytics
+### **Course Number:** ALY6015.71629.202515
+### **Date :** December 11,2024
+### Project Team: Team Epsilon 
+### Team Members:
+1. Hari Priya Ramamoorthy (ramamoorthy.h@northeastern.edu)
+2. Issac ()
+3. Shilin Wang ()
