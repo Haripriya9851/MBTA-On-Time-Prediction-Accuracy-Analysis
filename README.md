@@ -11,6 +11,10 @@ This Project is a part of Northeastern University's MPS Analytics Program Class 
 2. Isaac Nyinaku (nyinaku.i@northeastern.edu)
 3. Shilin Wang (wang.shili@northeastern.edu)
 
+### Final PPT: [MBTA Prediction Accuracy Analysis Project Insights & Recommendations Presentation.PPT](https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis/blob/main/MBTA_Prediction_Accuracy_ANALYSIS_PPT.pdf)
+### Final Report: [MBTA Prediction Accuracy Analysis Project Report.pdf](https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis/blob/main/Report/ALY6015_TeamEpsilon_Final_Analysis_Report_Dec12.pdf)
+### Final R Code: [MBTA Prediction Accuracy Analysis Project Rscript.R](https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis/blob/main/R%20code/ALY6015_Epsilon_finalProject_Rscript_Dec12.R)
+
 # Problem Statement :
 - The Massachusetts Bay Transportation Authority (MBTA) operates many transport lines (Bus, Red, Green, Orange, & Blue lines) across the Massachusetts state.
 - The MBTA wants to improve their On-Time prediction model to provide accurate predictions to improve operational efficiency and ridership.
@@ -30,8 +34,5 @@ This Project is a part of Northeastern University's MPS Analytics Program Class 
 - **Stepwise Regression:** This method automatically selected the most significant features based on AIC criteria.
 - **Lasso Regression:** Lasso regularization was applied to shrink coefficients of less important features, simplifying the model.
 
-### R Code: https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis/blob/main/R%20code/ALY6015_Epsilon_finalProject_Rscript_Dec12.R
-### Report: https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis/blob/main/Report/ALY6015_TeamEpsilon_Final_Analysis_Report_Dec12.pdf
-### PPT: 
 
 
