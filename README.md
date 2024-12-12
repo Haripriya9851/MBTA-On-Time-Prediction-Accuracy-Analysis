@@ -8,5 +8,5 @@ This Project is a part of Northeastern University's MPS Analytics Program.
 ### Project Team: Team Epsilon 
 ### Team Members:
 1. Hari Priya Ramamoorthy (ramamoorthy.h@northeastern.edu)
-2. Issac ()
-3. Shilin Wang ()
+2. Isaac Nyinaku (nyinaku.i@northeastern.edu)
+3. Shilin Wang (wang.shili@northeastern.edu)
