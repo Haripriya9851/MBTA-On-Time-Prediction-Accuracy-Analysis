@@ -20,7 +20,7 @@ This Project is a part of Northeastern University's MPS Analytics Program Class 
 - The MBTA wants to improve their On-Time prediction model to provide accurate predictions to improve operational efficiency and ridership.
 
 # Objective of the Analysis: 
-- To Recommend significant factors to add in MBTA on-time prediction model to improve it’s accuracy thereby improving their ridership and operational efficiency.
+- To provide recommendations on significant factors to include in MBTA on-time prediction model for improved accuracy based on statistical tests and Feature selection methods.
 
 # Methodology:
 ## The analysis was done in several steps leveraging R Programming:
