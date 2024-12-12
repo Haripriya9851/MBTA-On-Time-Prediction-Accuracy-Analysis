@@ -16,6 +16,22 @@ This Project is a part of Northeastern University's MPS Analytics Program Class 
 - The MBTA wants to improve their On-Time prediction model to provide accurate predictions to improve operational efficiency and ridership.
 
 # Objective of the Analysis: 
-To Recommend significant factors to add in MBTA on-time prediction model to improve it’s accuracy thereby improving their ridership and operational efficiency.
+- To Recommend significant factors to add in MBTA on-time prediction model to improve it’s accuracy thereby improving their ridership and operational efficiency.
+
+# Methodology:
+## The analysis was done in several steps leveraging R Programming:
+1.	Exploratory Data Analysis (EDA): This phase involved inspecting the relationships between the features and the target variable, along with handling data integration potential data issues.
+2.	Hypothesis Testing: An ANOVA,Chi-square and Correlation test was conducted to explore the statistical differences in prediction accuracy across transportation modes.
+3.	Linear Modeling: A linear regression model was fit to predict the accuracy of MBTA’s model, considering route, ridership, and month as predictors.
+4.	Feature Selection: Both stepwise regression and lasso regression were employed to assess feature importance and select the most relevant predictors.
+   
+## Statistical Techniques
+- Linear Regression: This model was used to examine the relationship between the predictors and model accuracy.
+- Stepwise Regression: This method automatically selected the most significant features based on AIC criteria.
+- Lasso Regression: Lasso regularization was applied to shrink coefficients of less important features, simplifying the model.
+
+R Code: 
+Report:
+PPT:
 
 
