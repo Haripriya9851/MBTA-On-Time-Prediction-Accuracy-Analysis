@@ -1,5 +1,5 @@
 # MBTA-On-Time-Prediction-Accuracy-Analysis
-This Project is a part of Northeastern University's MPS Analytics Program. 
+This Project is a part of Northeastern University's MPS Analytics Program Class Assignment. 
 
 ### **Program Name:** Masters of Professional Studies in Analytics 
 ### **Course Name:** Intermediate Analytics
